@@ -1,2 +1,8 @@
-E:\Programming\Study\FAT\Code\deliverytech\delivery-api\delivery-api\src\main\java\com\deliverytech\delivery\config\OpenApiConfig.java
-E:\Programming\Study\FAT\Code\deliverytech\delivery-api\delivery-api\src\main\java\com\deliverytech\delivery\DeliveryApiApplication.java
+E:\Programming\Study\FAT\Code\deliverytech\delivery-api-alexsandro\delivery-api\src\main\java\com\deliverytech\delivery\config\OpenApiConfig.java
+E:\Programming\Study\FAT\Code\deliverytech\delivery-api-alexsandro\delivery-api\src\main\java\com\deliverytech\delivery\config\SecurityConfig.java
+E:\Programming\Study\FAT\Code\deliverytech\delivery-api-alexsandro\delivery-api\src\main\java\com\deliverytech\delivery\DeliveryApiApplication.java
+E:\Programming\Study\FAT\Code\deliverytech\delivery-api-alexsandro\delivery-api\src\main\java\com\deliverytech\delivery\model\Role.java
+E:\Programming\Study\FAT\Code\deliverytech\delivery-api-alexsandro\delivery-api\src\main\java\com\deliverytech\delivery\model\Usuario.java
+E:\Programming\Study\FAT\Code\deliverytech\delivery-api-alexsandro\delivery-api\src\main\java\com\deliverytech\delivery\repository\UsuarioRepository.java
+E:\Programming\Study\FAT\Code\deliverytech\delivery-api-alexsandro\delivery-api\src\main\java\com\deliverytech\delivery\security\JwtAuthenticationFilter.java
+E:\Programming\Study\FAT\Code\deliverytech\delivery-api-alexsandro\delivery-api\src\main\java\com\deliverytech\delivery\security\JwtUtil.java
